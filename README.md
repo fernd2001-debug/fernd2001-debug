@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/TU_BANNER.png" width="100%">
+  <img src="assets/banner1.png" width="100%">
 </p>
 
 <h1 align="center">
