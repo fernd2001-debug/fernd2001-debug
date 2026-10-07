@@ -1,0 +1,21 @@
+Para: talento@rendelit.com.ar
+Asunto: Desarrollador/a Jr — Software e IA
+
+Hola equipo de Rendel,
+
+Me postulo a la búsqueda de Desarrollador/a Jr — Software e IA.
+
+Soy Didier Vallejo, desarrollador de software con experiencia construyendo funcionalidades, integrando sistemas con APIs REST y automatizando procesos con Python. Trabajo de forma habitual con desarrollo asistido por IA (Claude y otros agentes de código) en proyectos reales: no solo genero código con IA, sino que lo reviso, depuro y valido antes de llevarlo a producción.
+
+En BBVA Colombia diseñé APIs REST e implementé un bot en Python/Selenium que redujo una tarea semanal de 4 horas a 1 hora autónoma. Además, tengo un proyecto propio publicado en Google Play Store (lanzamiento oficial: septiembre 2026), con backend en Node.js y despliegue dockerizado — puedo explicar qué construí, qué parte hice yo y cómo usé IA con criterio técnico.
+
+Me interesa especialmente aportar en software para logística y en soluciones de IA aplicadas a problemas reales. Tengo sólidos fundamentos de programación, Git y depuración; React y Go no son excluyentes en la oferta y estoy listo para aprenderlos rápido en el día a día del equipo.
+
+Adjunto mi CV. Quedo atento a una conversación.
+
+Saludos,
+Didier Fernando Vallejo Sanabria
++57 317 337 6989
+ferdidier2000@hotmail.com
+LinkedIn: [pegar URL]
+Proyecto / repo: [pegar enlace Play Store o GitHub + 2-3 líneas de qué hiciste vos]
