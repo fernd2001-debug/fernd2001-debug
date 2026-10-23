@@ -1,145 +1,51 @@
-<p align="center">
-  <img src="banner1.png" width="100%">
-</p>
+# Didier Fernando Vallejo
 
-<h1 align="center">
-⚔️ Didier Fernando Vallejo Sanabria ⚔️
-</h1>
+**Backend Engineer** · Java · Spring Boot · Python  
+Colombia · Open to work · Looking for international opportunities
 
-<h3 align="center">
-Backend Engineer | Software Developer | Programming Instructor
-</h3>
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=700&lines=Backend+Engineer;Programming+Instructor;AI+Enthusiast;Building+Reliable+Systems;Always+Learning">
-</p>
-
-<h2>⚒️ About Me</h2>
-
-<ul>
-  <li>💻 Software Engineer from Colombia</li>
-  <li>🚀 Backend Development Specialist</li>
-  <li>🎓 Programming Instructor</li>
-  <li>🤖 Passionate about AI & Prompt Engineering</li>
-  <li>🌎 Looking for international opportunities</li>
-  <li>🎮 Gamer and technology enthusiast</li>
-</ul>
-
-<h2>⚙️ Tech Arsenal</h2>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,python,js,html,css,mysql,postgres,git,github,docker,vscode"/>
-
-</p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,react,mongodb,linux,aws"/>
-
-<h2>📊 Battle Statistics</h2>
-
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
-<h2>📈 Contribution Graph</h2>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night"/>
-
-<h2>⚔️ Character Sheet</h2>
-
-```yaml
-Name: Didier Fernando Vallejo Sanabria
-
-Class:
-  - Backend Engineer
-  - Programming Instructor
-
-Level: 24
-
-Skills:
-  - Java
-  - Spring Boot
-  - Python
-  - SQL
-  - Git
-  - Docker
-
-Special Ability:
-  - Turning Coffee into Code
-
-Current Quest:
-  - Master English
-  - International Career Growth
-  - Build Better Systems
-
+I design and build backend services with a focus on clear APIs, data modeling, and systems that are easy to run and maintain. I also teach programming, which keeps me disciplined about readable code and good fundamentals.
 
 ---
 
-# Trofeos
+## Stack
 
-```html
-<h2>🏆 Achievements</h2>
+`Java` `Spring Boot` `JPA` `Python` `SQL` `MySQL` `PostgreSQL` `Git` `Docker`
 
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=darkhub&column=4"/>
-
-<h2>🔥 Forge Status</h2>
-
-```bash
-> system.boot()
-
-Backend Engineer initialized...
-Teaching Mode activated...
-Coffee Level: ██████████ 100%
-Motivation: ██████████ 100%
-
-Current Objective:
-Become an elite international software engineer.
-
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,postgres,git,docker,linux" alt="Tech stack" />
+</p>
 
 ---
 
-# README completo estilo Dark Metal
+## Featured work
 
-La estructura final sería:
+**[personal-finance](https://github.com/fernd2001-debug/personal-finance)** — REST API for personal income and expense tracking.
 
-```txt
-[BANNER ÉPICO]
+- Spring Boot 4 · Java 21 · Spring Data JPA · MySQL
+- Layered design: controller → service → repository → entity
+- Runnable locally with Docker Compose and environment variables (no secrets in the repo)
 
-NOMBRE
+---
 
-TYPING EFFECT
+## About
 
-ABOUT ME
+- Backend development with Java and Spring Boot
+- Programming instructor
+- Interested in AI-assisted engineering and reliable system design
+- Currently improving English and targeting international roles
 
-TECH ARSENAL
+---
 
-GITHUB STATS
+## GitHub
 
-STREAK
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=fernd2001-debug&show_icons=true&theme=transparent&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=334155" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernd2001-debug&layout=compact&theme=transparent&hide_border=true&title_color=2563eb&text_color=334155" alt="Top languages" />
+</p>
 
-CONTRIBUTION GRAPH
+---
 
-CHARACTER SHEET
+## Contact
 
-TROPHIES
-
-SNAKE ANIMATION
-
-FORGE STATUS
+- GitHub: [fernd2001-debug](https://github.com/fernd2001-debug)
+- Email: ferdidierv2001@gmail.com
